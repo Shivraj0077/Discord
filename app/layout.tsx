@@ -36,7 +36,7 @@ export default function RootLayout({
         )}>
           <header>
             <SignedOut>
-              <SignInButton />
+              <SignInButton/>
             </SignedOut>
             <SignedIn>
             </SignedIn>
